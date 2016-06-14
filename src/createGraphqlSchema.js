@@ -1,3 +1,5 @@
+import './promisify'
+
 import getCatalog from './postgres/getCatalog.js'
 import createSchema from './graphql/createSchema.js'
 
